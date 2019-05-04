@@ -1,5 +1,5 @@
 section.pricing {
-    background: #007bff;
+    background: #0062E6;
     background: linear-gradient(to right, #0062E6, #33AEFF);
 }
 
@@ -50,7 +50,7 @@ section.pricing {
 }
 
 .alignCard {
-    align="right";
+    align:"right";
 }
 
 /* Hover Effects on Card */
