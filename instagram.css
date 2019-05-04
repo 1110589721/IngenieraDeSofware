@@ -1,0 +1,22 @@
+/* Sticky Footer Classes */
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+/* Other Classes for Page Styling */
+
+body {
+  background: #fdfdfd;
+  /* background: linear-gradient(to right, rgb(253, 136, 136), rgb(248, 183, 43)); */
+}
+
